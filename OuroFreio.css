@@ -436,7 +436,7 @@ body {
   .whatts img {
     height: 10vw;
     width: 10vw;
-    left: 10px;   
+    left: 30px;   
    top: -2px;
     transform: translateX(-50%);
   }
